@@ -8,7 +8,7 @@ In this project, I did the dataset wrangling, analyzing and visualizing for the 
 
 The project notebook could be found below
 
-[Project Notebook: Understanding the Bike Sharing System from 2018–2019](https://github.com/huizishao/Udacity_DataScientist_Nanodegree/tree/master/Project%201%20-%20Write%20a%20Data%20Science%20Blog)
+[Project Notebook: wrangle_act](https://github.com/huizishao/Data_Analyst_Portfolio/tree/master/Project%201%20-%20Data%20Wrangling%20for%20WeRateDog%20Twitter)
 
 ### Project 2 - Movie database Data Analysis
 
@@ -18,7 +18,7 @@ In this project, I was questioning, wrangling, exploring, analyzing, and communi
 
 The project notebook could be found below
 
-[Project Notebook: ETL](https://github.com/huizishao/Udacity_DataScientist_Nanodegree/tree/master/Project%202%20-%20Disaster%20Response%20Webapp/data)
+[Project Notebook: investigate_tmdb_movies](https://github.com/huizishao/Data_Analyst_Portfolio/tree/master/Project%202%20-%20Movie%20database%20Data%20Analysis%20)
 
 ### Project 3 - Analyzing A/B Test Results for the e-commerce website
 
@@ -28,7 +28,7 @@ In this project, I further analysis and understand the results of an A/B test ru
 
 The project will be hosted on 
 
-[Project Notebook: Recommendations with IBM](https://github.com/huizishao/Udacity_DataScientist_Nanodegree/tree/master/Project%203%20-%20Recommendation%20systems%20with%20IBM%20)
+[Project Notebook: Analyze_ab_test_results](https://github.com/huizishao/Data_Analyst_Portfolio/tree/master/Project%203%20-%20Analyzing%20A:B%20Test%20Results%20for%20the%20e-commerce%20website)
 
 
 ### Project 4 - Bike Sharing Analysis with Ford GoBike Data
@@ -39,6 +39,6 @@ In this project, I analyzed teh 2018 - 2019 Ford Go-Bike bike sharing system dat
 
 The project notebook could be found below
 
-[Project Notebook: Understanding the Bike Sharing System from 2018–2019](https://github.com/huizishao/Udacity_DataScientist_Nanodegree/tree/master/Project%201%20-%20Write%20a%20Data%20Science%20Blog)
+[Project Notebook: exploration](https://github.com/huizishao/Data_Analyst_Portfolio/tree/master/Project%204%20-%20Bike%20Sharing%20Analysis%20with%20Ford%20GoBike%20Data)
 
-![Certificate](https://github.com/huizishao/Udacity_DataScientist_Nanodegree/blob/master/Data%20Scientist%20Nanodegree.pdf)
+![Certificate](https://github.com/huizishao/Data_Analyst_Portfolio/blob/master/Data%20Analyst%20Nanodegree.pdf)
